@@ -1,10 +1,10 @@
 ﻿Console.Clear();
 
-Console.WriteLine(Введите координаты точки А);
+Console.WriteLine("Введите координаты точки А: ");
 int x1 = int.Parse(Console.ReadLine());
 int y1 = int.Parse(Console.ReadLine());
 int z1 = int.Parse(Console.ReadLine());
-Console.WriteLine(Введите координаты точки В);
+Console.WriteLine("Введите координаты точки В: ");
 int x2 = int.Parse(Console.ReadLine());
 int y2 = int.Parse(Console.ReadLine());
 int z2 = int.Parse(Console.ReadLine());
